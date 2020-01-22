@@ -5,7 +5,6 @@ body {
 
 h1 {
   font-size: 16px;
-  margin-bottom: 5px;
 }
 header {
   font-size: 16px;
@@ -13,6 +12,7 @@ header {
 }
 ul {
   padding: 0%;
+  margin: 10px 0px;
 }
 li {
   margin-top: 5px;
